@@ -13,6 +13,6 @@ BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's th
 * The first player to reach 100 points on GLOBAL score wins the game
 * A player looses his ENTIRE score when he rolls two 6'es in a row. After that, it's the next player's turn. Players can set the winning score (in an input field), so that they can change the predefined score of 100.
 
-
-
+### Built with
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
